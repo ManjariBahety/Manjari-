@@ -10622,4 +10622,4 @@ id,Gender,Age,Life Insurance,Region_Code,Previously_Insured,Maturity Age,Insuran
 10621,Male,28,1,39,0,< 1 Year,Yes,26320,152,107,0
 10622,Female,23,1,28,0,< 1 Year,Yes,43958,152,281,0
 10623,Male,27,1,40,0,< 1 Year,Yes,2630,26,202,0
-10624,Male,29,1,15,0,< 1 Year,Yes,2630,15,,
+10624,Male,29,1,15,0,< 1 Year,Yes,2630,15,22,1
